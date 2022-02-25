@@ -1,0 +1,9 @@
+img {
+    width:150px;
+    height:150px;
+}
+
+.small {
+    transform: scale(0.5) 
+    translate(-100%, -100%);
+}
